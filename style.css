@@ -1,0 +1,11 @@
+.maindiv{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+
+.subdiv{
+    height: 50px;
+    width: 50px;
+    border: 2px solid red;
+}
